@@ -93,6 +93,13 @@ fun ActivitisPertama(modifier: Modifier) {
                         color = Color.White,
                         modifier = Modifier.padding(top = 10.dp)
                     )
+                    Text(
+                        text = "Kasihan, Bantul",
+                        fontSize = 12.sp,
+                        fontFamily = FontFamily.SansSerif,
+                        color = Color.White,
+                        modifier = Modifier.padding(top = 10.dp)
+                    )
                 }
             }
 

@@ -6,8 +6,8 @@ Kelas  : E<br>
 
 <div align="center">
   
-| **Documentation use phone** |
+| **Running an App on an Emulator** |
 |:----------------------:|
-| <img src="https://github.com/user-attachments/assets/c9b67707-08cc-464f-a38b-85064033e178" width="600" /> |
+| <img src="https://github.com/user-attachments/assets/13179760-e9c6-4335-84a1-146617759263" width="600" /> |
 
 </div>

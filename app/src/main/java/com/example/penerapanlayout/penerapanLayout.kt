@@ -74,7 +74,7 @@ fun ActivitisPertama(modifier: Modifier) {
             .fillMaxWidth(fraction = 1f)
             .padding(all = 12.dp),
             colors = CardDefaults.cardColors(
-                containerColor = Color(android.graphics.Color.parseColor("#114B96"))
+                containerColor = Color(android.graphics.Color.parseColor("#0E184A"))
                 )
             ) {
             Row(){
@@ -116,7 +116,7 @@ fun ActivitisPertama(modifier: Modifier) {
             .fillMaxWidth(fraction = 1f)
             .padding(all = 12.dp),
             colors = CardDefaults.cardColors(
-                containerColor = Color(android.graphics.Color.parseColor("#146E29"))
+                containerColor = Color(android.graphics.Color.parseColor("#0E4A1A"))
             )
         ){
             Row() {

@@ -2,7 +2,7 @@ Nama   : Husna Kamila Syahida<br>
 NIM    : 20230140238<br>
 Kelas  : E<br>
 
-# Dokumentation 
+# Documentation 
 
 <div align="center">
   

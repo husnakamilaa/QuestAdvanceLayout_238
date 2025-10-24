@@ -87,7 +87,7 @@ fun ActivitisPertama(modifier: Modifier) {
                 Spacer(modifier = Modifier.width(width = 30.dp))
                 Column() {
                     Text(
-                        text = "Alya Keira",
+                        text = stringResource(id = R.string.nama2),
                         fontSize = 25.sp,
                         fontFamily = FontFamily.SansSerif,
                         fontWeight = FontWeight.Bold,
@@ -95,7 +95,7 @@ fun ActivitisPertama(modifier: Modifier) {
                         modifier = Modifier.padding(top = 10.dp)
                     )
                     Text(
-                        text = "Kasihan, Bantul",
+                        text = stringResource(id = R.string.alamat2),
                         fontSize = 12.sp,
                         fontFamily = FontFamily.SansSerif,
                         color = Color.White,
@@ -129,7 +129,7 @@ fun ActivitisPertama(modifier: Modifier) {
                 Spacer(modifier = Modifier.width(width = 30.dp))
                 Column() {
                     Text(
-                        text = "Nadia Safira",
+                        text = stringResource(id = R.string.nama3),
                         fontSize = 25.sp,
                         fontFamily = FontFamily.SansSerif,
                         fontWeight = FontWeight.Bold,
@@ -137,7 +137,7 @@ fun ActivitisPertama(modifier: Modifier) {
                         modifier = Modifier.padding(top = 10.dp)
                     )
                     Text(
-                        text = "Kaliurang, Sleman",
+                        text = stringResource(id = R.string.alamat3),
                         fontSize = 12.sp,
                         fontFamily = FontFamily.SansSerif,
                         color = Color.White,

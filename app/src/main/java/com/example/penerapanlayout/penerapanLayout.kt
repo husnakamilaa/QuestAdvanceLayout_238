@@ -45,7 +45,7 @@ fun ActivitisPertama(modifier: Modifier) {
                 containerColor = Color.DarkGray
             )) {
             Row() {
-                val gambar = painterResource(id = R.drawable.melukis)
+                val gambar = painterResource(id = R.drawable.logoumy)
                 Image(
                     painter = gambar,
                     contentDescription = null,

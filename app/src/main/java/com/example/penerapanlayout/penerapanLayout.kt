@@ -77,6 +77,10 @@ fun ActivitisPertama(modifier: Modifier) {
                 containerColor = Color.Blue
                 )
             ) {
+            Row(){
+                val gambar = painterResource(id = R.drawable.logoumy)
+            }
+
         }
         Spacer(modifier = Modifier.height(height = 25.dp))
         Card (modifier = Modifier
@@ -86,7 +90,6 @@ fun ActivitisPertama(modifier: Modifier) {
                 containerColor = Color.Green
             )
         ){
-
         }
         Box(
             modifier = Modifier

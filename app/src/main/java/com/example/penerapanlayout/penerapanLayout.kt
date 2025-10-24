@@ -78,6 +78,7 @@ fun ActivitisPertama(modifier: Modifier) {
                 )
             ) {
         }
+        Spacer(modifier = Modifier.height(height = 25.dp))
         Box(
             modifier = Modifier
                 .fillMaxSize()

@@ -44,7 +44,8 @@ fun ActivitisPertama(modifier: Modifier) {
             colors = CardDefaults.cardColors(
                 containerColor = Color.DarkGray
             )) {
-            Row() {
+            Row(modifier = Modifier
+                .padding(all = 5.dp)) {
                 val gambar = painterResource(id = R.drawable.logoumy)
                 Image(
                     painter = gambar,
@@ -77,7 +78,8 @@ fun ActivitisPertama(modifier: Modifier) {
                 containerColor = Color(android.graphics.Color.parseColor("#0E184A"))
                 )
             ) {
-            Row(){
+            Row(modifier = Modifier
+                .padding(all = 5.dp)){
                 val gambar = painterResource(id = R.drawable.logoumy)
                 Image(
                     painter = gambar,
@@ -119,7 +121,8 @@ fun ActivitisPertama(modifier: Modifier) {
                 containerColor = Color(android.graphics.Color.parseColor("#0E4A1A"))
             )
         ){
-            Row() {
+            Row(modifier = Modifier
+                .padding(all = 5.dp)) {
                 val gambar = painterResource(id = R.drawable.logoumy)
                 Image(
                     painter = gambar,

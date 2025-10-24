@@ -84,6 +84,16 @@ fun ActivitisPertama(modifier: Modifier) {
                     contentDescription = null,
                     modifier = Modifier.size(size = 100.dp).padding(all = 5.dp)
                 )
+                Column() {
+                    Text(
+                        text = "Alya Keira",
+                        fontSize = 25.sp,
+                        fontFamily = FontFamily.SansSerif,
+                        fontWeight = FontWeight.Bold,
+                        color = Color.White,
+                        modifier = Modifier.padding(top = 10.dp)
+                    )
+                }
             }
 
         }

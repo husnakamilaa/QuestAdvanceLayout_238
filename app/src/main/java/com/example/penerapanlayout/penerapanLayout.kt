@@ -119,6 +119,9 @@ fun ActivitisPertama(modifier: Modifier) {
                 containerColor = Color.Green
             )
         ){
+            Row() {
+                val gambar = painterResource(id = R.drawable.logoumy)
+            }
         }
         Box(
             modifier = Modifier
